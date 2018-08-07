@@ -1,8 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from PIL import Image
-import caffe
-import cv2
+i#mport caffe
+#import cv2
 
 
 # caffe.set_mode_cpu()
