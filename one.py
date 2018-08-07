@@ -1,7 +1,7 @@
-import numpy as np
+#import numpy as np
 import matplotlib.pyplot as plt
 from PIL import Image
-i#mport caffe
+import caffe
 #import cv2
 
 
